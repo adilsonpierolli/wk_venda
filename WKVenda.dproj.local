@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/02/24 15:28:02.000.393,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/12 11:09:47.000.428,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/12 15:11:53.000.195,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/12 15:20:14.000.177,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/13 15:15:12.000.589,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/19 11:58:37.000.731,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/05 10:46:51.000.910,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/09 16:25:46.000.409,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/09 16:27:23.000.667,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/09 16:41:55.000.771,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/08 14:56:21.000.197,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/18 18:37:50.000.869,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 22:08:35.000.048,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 22:11:59.000.435,C:\WK_Technology\unPedidoVenda.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 22:11:59.000.435,C:\WK_Technology\unPedidoVenda.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/27 22:12:43.000.715,C:\WK_Technology\WKVenda.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/27 23:52:54.000.728,=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 23:53:25.000.688,C:\WK_Technology\unConexao.pas=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/28 00:14:12.000.705,=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/28 00:15:10.000.419,C:\WK_Technology\unBase.pas=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/28 00:15:10.000.419,C:\WK_Technology\unBase.dfm=C:\WK_Technology\Unit1.dfm</Transaction>
+    <Transaction>2021/07/28 12:14:27.000.165,=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/28 12:14:39.000.981,C:\WK_Technology\Unit1.pas=C:\WK_Technology\uRegras.pas</Transaction>
+    <Transaction>2021/07/29 12:13:37.000.194,=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/29 12:14:30.000.650,C:\WK_Technology\unListaPedidoProdutos.pas=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/29 23:11:10.000.347,=C:\WK_Technology\Unit1.pas</Transaction>
+    <Transaction>2021/07/29 23:11:39.000.581,C:\WK_Technology\Unit1.dfm=C:\WK_Technology\unFrmPesquisa.dfm</Transaction>
+    <Transaction>2021/07/29 23:11:39.000.581,C:\WK_Technology\Unit1.pas=C:\WK_Technology\unFrmPesquisa.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="AVD1"/>
+	</ActiveMobileDevice>
+</BorlandProject>
